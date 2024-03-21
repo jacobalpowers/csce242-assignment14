@@ -1,0 +1,15 @@
+header {
+    text-align: center;
+    color: #444A4C;
+    background-color: salmon;
+    /*margin: 0px;*/
+}
+
+.crafts-list {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+.craft-item {
+
+}
