@@ -1,4 +1,4 @@
-let src = "http://csce242-assignment14-yx60.onrender.com/";
+let src = "https://csce242-assignment14-yx60.onrender.com/";
 let crafts = [];
 
 class Craft {
