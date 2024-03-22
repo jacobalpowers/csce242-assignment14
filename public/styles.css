@@ -97,8 +97,8 @@ body {
     margin-bottom: 10px
 }
 #more-details img {
-    height: 100%;
-    width: auto;
+    height: auto;
+    width: 100%;
     padding-left: 10px;
 }
 
